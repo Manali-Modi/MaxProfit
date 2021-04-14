@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MaxProfit</string>
+    <string name="invest">Your Investment Amount</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="c_title">Company Name</string>
+    <string name="b_title">Buy Value</string>
+    <string name="s_title">Sell Value</string>
+    <string name="p_title">Profit</string>
+
+    <string name="c1">Applo Tyre</string>
+    <string name="c2">TATA Power</string>
+    <string name="c3">ITC</string>
+    <string name="c4">PowerGrid</string>
+
+    <string name="b1">216.50</string>
+    <string name="b2">104.10</string>
+    <string name="b3">218.45</string>
+    <string name="b4">214.10</string>
+
+    <string name="s1">217.40</string>
+    <string name="s2">104.30</string>
+    <string name="s3">219.25</string>
+    <string name="s4">216.20</string>
+
+    <string name="p1">0.9</string>
+    <string name="p2">0.2</string>
+    <string name="p3">0.8</string>
+    <string name="p4">2.1</string>
+</resources>
